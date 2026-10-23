@@ -1,91 +1,155 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:FE428E,100:A9FEF7&height=190&section=header&text=Sai%20Prakash%20Ganta&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18" />
+  <img src="assets/pocket-runner.gif" alt="Prakash Ganta — animated pixel banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=620&lines=Hi!+I'm+Sai+Prakash+%F0%9F%91%8B;DevOps+%2B+Full-Stack+Developer;Building+AI+Agents+%26+RAG+Systems;Making+LLM+agents+observable" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1500&color=9BD45A&center=true&vCenter=true&width=600&lines=Hi!+I'm+Prakash.;DevOps+%2B+Full-Stack+Engineer;Building+AI+agents+that+ship;Open+to+internships!" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=prakashganta207&theme=radical&data=followers,repositories,stars,commits" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=prakashganta207&theme=darkmode&data=followers,repositories,stars,commits" alt="GitHub profile stats for prakashganta207" />
 </p>
 
-## About Me
+<h2>About Me</h2>
 
-<table>
+- 🛠️ I'm a **DevOps & full-stack developer**: I like automating the boring parts, from CI/CD pipelines and containers to deployments.
+- 🤖 Currently going deep into **AI/ML**: RAG systems, AI agents, and how to make them observable and reliable.
+- 🎓 B.Tech CSE student (class of 2028), based in Chengalpattu, Tamil Nadu.
+- 🎯 **Open to internships** in DevOps, backend, or AI engineering.
+
+<h3>What I'm building</h3>
+
+- **Admission Information Agent**: a local RAG-based assistant with full agent observability (team project).
+- **Story → Manga**: an AI app that turns written stories into manga panels, being upgraded to a multi-agent pipeline.
+- **Code Guard**: ML-based detection and self-correction of security vulnerabilities in LLM-generated code.
+- **AI DevOps Agent**: research and a working prototype of an agent that does DevOps work.
+
+<h3 align="left">Languages & Tools</h3>
+
+<div align="center">
+
+<table width="92%">
 <tr>
-<td width="62%">
 
-- 🎓 **B.Tech CSE**, 3rd year (graduating **2028**)
-- ⚙️ Background in **DevOps** and **full-stack**, now going deep into **AI agents, RAG and LLMOps**
-- 🔭 Building a **locally-run, observable ("glass box") RAG agent** with my team
-- 🔐 Working on **Code Guard**: catching and fixing vulnerabilities in LLM-generated code
-- 📝 Researching an **AI agent that runs the DevOps lifecycle**
-- 🌱 Open to **internships** in DevOps, backend and AI engineering
-- 📍 Tamil Nadu, India
+<td align="center" width="25%" valign="top">
+<b>Languages</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=python" width="44" alt="Python"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="44" alt="JavaScript"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" width="44" alt="TypeScript"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=bash" width="44" alt="Bash"/>
+</td>
 
+<td align="center" width="25%" valign="top">
+<b>Frontend</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=react" width="44" alt="React"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS"/>
 </td>
-<td width="38%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
+
+<td align="center" width="25%" valign="top">
+<b>Backend</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="44" alt="Express"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI"/>
 </td>
+
+<td align="center" width="25%" valign="top">
+<b>AI / ML</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="44" alt="TensorFlow"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="44" alt="OpenCV"/>
+</td>
+
 </tr>
 </table>
 
-## Featured Projects
+<br>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🏫 **Local Admission Agent** | Privacy-first admission Q&A agent that runs 100% locally, instrumented with OpenTelemetry to compare "black box" vs "glass box" agents on MTTR, failure detection and latency overhead | Qwen · Ollama · FAISS/Chroma · OpenTelemetry · MySQL · Grafana |
-| 🛡️ **Code Guard** | Detects and fixes security vulnerabilities (XSS, SQLi, command injection, path traversal…) in LLM-generated code, built on 35K vulnerable/fixed code pairs | Python · ML · LLMs |
-| 🎨 **[Manga Maker](https://github.com/prakashganta207/Manga-Maker)** | Turns a written story into manga with a multi-agent team (writer, artist, editor) and consistent characters | Python · Multi-agent LLMs · Diffusion |
-| 💰 **[Loan Management App](https://github.com/prakashganta207/Loan-Management-APP)** | Mobile app for managing loans | Dart · Flutter |
-| 🩺 **[AI Health Analyser](https://github.com/prakashganta207/AI_health_analyser)** | AI-powered health analysis web app | JavaScript |
+<table width="92%">
+<tr>
 
-### Languages & Tools
+<td align="center" width="25%" valign="top">
+<b>DevOps</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" width="44" alt="Nginx"/>
+</td>
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,dart,html,css,bash" />
-</p>
+<td align="center" width="25%" valign="top">
+<b>Cloud</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"/>
+</td>
 
-**Frontend & Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,fastapi" />
-</p>
+<td align="center" width="25%" valign="top">
+<b>Databases</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis"/>
+</td>
 
-**DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,nginx,git,github" />
-</p>
+<td align="center" width="25%" valign="top">
+<b>Tools</b>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"/>
+</td>
 
-**AI / ML & Observability**
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,grafana,prometheus" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" height="40" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40" />
-</p>
+</tr>
+</table>
 
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+</div>
 
 ## Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashganta207&theme=radical&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashganta207&bg_color=0F1C0E&color=C4CFA1&line=9BD45A&point=C4CFA1&area=true&area_color=4D6B3A&hide_border=true" width="100%" alt="Contribution graph"/>
+
+</div>
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=prakashganta207&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashganta207&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prakashganta207&background=0F1C0E&ring=9BD45A&fire=9BD45A&currStreakLabel=C4CFA1&sideLabels=C4CFA1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8BAC5A&stroke=4D6B3A&hide_border=true" height="180" alt="GitHub streak"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakashganta207&layout=compact&bg_color=0F1C0E&title_color=9BD45A&text_color=C4CFA1&hide_border=true" height="180" alt="Top languages"/>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A9FEF7,50:FE428E,100:141321&height=110&section=footer" />
+  <img src="assets/pocket-shooter.gif" alt="Pixel spaceship shooting bugs" width="100%" />
 </p>
