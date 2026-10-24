@@ -1,13 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="pocket-runner.gif" alt="Prakash Ganta — animated pixel banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2500&pause=1500&color=9BD45A&center=true&vCenter=true&width=600&lines=Hi!+I'm+Prakash.;DevOps+%2B+Full-Stack+Engineer;Building+AI+agents+that+ship;Open+to+internships!" alt="Typing SVG" />
-  </a>
+  <img src="PASTE_GIF_LINK_HERE" alt="Prakash Ganta — animated pixel banner" width="100%" />
 </p>
 
 <p align="center">
@@ -149,7 +143,3 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakashganta207&layout=compact&bg_color=0F1C0E&title_color=9BD45A&text_color=C4CFA1&hide_border=true" height="180" alt="Top languages"/>
 
 </div>
-
-<p align="center">
-  <img src="pocket-shooter.gif" alt="Pixel spaceship shooting bugs" width="100%" />
-</p>
